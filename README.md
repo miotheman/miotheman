@@ -1,14 +1,8 @@
-<h2 align="left">Hi :wave:! My name is Mio</h2>
+<h2 align="left">Hi :wave:! My name is </h2>
 
 ###
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&width=435&lines=M+i+o)](https://git.io/typing-svg)
-
-<div align="center">
-  <a href="https://discord.com/users/975814113966030979">
-    <img src="https://lanyard-profile-readme.vercel.app/api/975814113966030979?bg=121212" width="500" align="center">
-  </a>
-/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miotheman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" 
